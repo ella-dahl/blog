@@ -2,7 +2,6 @@
 layout: page
 title: About Ella
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
