@@ -1,10 +1,13 @@
 # Site
 name: "Ellas blog"
 title: "Ellas blog"
-description: "Blog om bøger, krea, mad og andre sjove ting."
+description: "Blog om bøger, krea, mad, og andre sjove ting."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "https://ella-dahl.github.io/blog/"
+baseurl: /blog
+google_analytics:
+disqus:
+mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
@@ -14,15 +17,19 @@ authors:
     name: Ella
     display_name: Ella
     avatar: 'assets/images/ella-dahl.jpg'
-    description: "Ella, vild med at skrive."
+    email: ella.marie.bjorholm.dahl@gmail.com
+    description: "Ella er vild med at skrive. Hun elsker bøger, krea, mad, og andre sjove ting. Så det skriver hun i sin blog, som du er ved at læse."
   vedrana:
     name: Vedrana
     display_name: Vedrana
-    description: "Vedrana, kan godt lide github, jekyll, html."
+    description: "Vedrana kan godt lide github, jekyll, html. Hun er vild med at kode og lave hjemmesider. Hun har lavet denne blog til Ella."
 
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-archives
     
 # Archives
@@ -47,3 +54,12 @@ kramdown:
     block:
       line_numbers: true
 
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: 
+adsense-data-ad-slot: 
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
