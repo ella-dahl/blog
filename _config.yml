@@ -6,6 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "https://ella-dahl.github.io/blog/"
 include: ["_pages"]
+permalink: /:title/
 
 # Authors
 authors:
