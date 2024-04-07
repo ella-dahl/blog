@@ -142,6 +142,7 @@ post_class: post-template
 
 <!-- Begin Comments
 ================================================== -->
+{% if site.disqus %}
 {% if page.comments != false %}
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
@@ -150,6 +151,7 @@ post_class: post-template
             </div>
         </div>
     </div>
+{% endif %}
 {% endif %}
 <!--End Comments
 ================================================== -->

@@ -12,6 +12,7 @@ layout: default
     {{content}}
     </div>
 
+    {% if site.disqus %}
     {% if page.comments == true %}
 
     <div id="comments" class="row mb-5">
@@ -21,4 +22,6 @@ layout: default
     </div>
 
     {% endif %}
+    {% endif %}
+    
 </section>
