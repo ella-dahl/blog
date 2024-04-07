@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Hæklede skildpadde"
 author: ella
-categories: [ Jekyll ]
-image: assets/images/14.jpg
+categories: [ hækling , krea]
 ---
 > There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
