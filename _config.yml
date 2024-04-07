@@ -1,26 +1,27 @@
 # Site
 name: "Ellas blog"
 title: "Ellas blog"
-description: "Blog."
+description: "Blog om bøger, krea, mad og andre ting man laver i fritiden."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "https://ella-dahl.github.io/blog/"
 include: ["_pages"]
-permalink: /:title/
 
 # Authors
 authors:
   ella:
     name: Ella
     display_name: Ella
-    description: "Ella, This is the author box."
+    avatar: 'assets/images/ella-dahl.jpg'
+    description: "Ella, vild med at skrive."
+  vedrana:
+    name: Vedrana
+    display_name: Vedrana
+    description: "Vedrana, kan godt lide github, jekyll, html."
 
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-archives
     
 # Archives
@@ -45,5 +46,3 @@ kramdown:
     block:
       line_numbers: true
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
