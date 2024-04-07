@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "Hunger games 1, 2 og 3"
 author: ella
 categories: [ bøger, fantasy ]
 image: assets/images/hunger-games.jpg
