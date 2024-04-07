@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About Ella
-permalink: /about
+title: Om Ella og bloggen
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website OMG</p>
+<p>Tja, her skal der skrives lidt om bloggen.</p>
 
 
 </div>

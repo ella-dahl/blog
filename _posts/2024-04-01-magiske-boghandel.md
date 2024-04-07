@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A book"
+title:  "Den magiske boghandel"
 author: ella
-categories: [ detene, detandet ]
+categories: [ bøger, fantasy ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of a book, plot and something else in this short description."
+image: assets/images/magiske-boghandel.jpg
+description: "Bøganmendelse af en bog som jeg fik i fødselsdaggaven af farmor."
 featured: true
 ---
 

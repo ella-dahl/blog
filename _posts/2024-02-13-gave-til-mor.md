@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Something else"
+title:  "Fødselsdagsgave til mor"
 author: ella
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+categories: [ krea ]
+image: assets/images/gave-til-mor.jpg
 featured: true
 ---
 

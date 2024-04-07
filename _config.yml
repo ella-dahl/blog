@@ -1,7 +1,7 @@
 # Site
 name: "Ellas blog"
 title: "Ellas blog"
-description: "Blog om bøger, krea, mad og andre ting man laver i fritiden."
+description: "Blog om bøger, krea, mad og andre sjove ting."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "https://ella-dahl.github.io/blog/"
