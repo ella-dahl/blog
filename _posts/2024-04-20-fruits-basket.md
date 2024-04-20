@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Fruits Basket
+title: "Fruits Basket"
 author: ella
 categories: [ bøger , tegneserier ]
 --
+  
 > Fruits Basket er ikke den form for historie jeg normalt ville læse men jeg syntes stadig meget godt om den.
 
 Fruits Basket handler kort sagt om Toru Honda der møder en famillie der har en forbandelse over sig og da hun ikke har noget sted at bo for hun lov til at bo hos dem som en af de eneste der kender til forbandelsen uden for famillien.
