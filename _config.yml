@@ -18,11 +18,11 @@ authors:
     display_name: Ella
     avatar: 'assets/images/ella-dahl.jpg'
     email: ella.marie.bjorholm.dahl@gmail.com
-    description: "Ella er vild med at skrive. Hun elsker bøger, krea, mad, og andre sjove ting. Så det skriver hun i sin blog, som du er ved at læse."
+    description: "Ella er vild med at skrive. Hun elsker bøger, krea, mad, og andre sjove ting. Så det skriver hun om i sin blog, som du er ved at læse nu."
   vedrana:
     name: Vedrana
     display_name: Vedrana
-    description: "Vedrana kan godt lide github, jekyll, html. Hun er vild med at kode og lave hjemmesider. Hun har lavet denne blog til Ella."
+    description: "Vedrana kan godt lide github, jekyll, html og andre sjove ting. Hun er vild med at kode og lave hjemmesider. Hun hjælper Ella med bloggen."
 
 # Plugins
 plugins:
