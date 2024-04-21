@@ -2,6 +2,7 @@
 layout: post
 title: "Fruits Basket"
 author: ella
+image: assets/images/fruits-basket.jpg
 categories: [ bøger , tegneserier ]
 featured: true
 ---
