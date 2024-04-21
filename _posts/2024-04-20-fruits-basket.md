@@ -3,6 +3,7 @@ layout: post
 title: "Fruits Basket"
 author: ella
 categories: [ bøger , tegneserier ]
+featured: true
 ---
 
 > Fruits Basket er ikke den form for historie jeg normalt ville læse men jeg syntes stadig meget godt om den.
